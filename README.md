@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-👋 Hi, I’m @thering999 <br />
-👀 I’m interested in PHP <br />
-🌱 I’m currently learning Forever <br />
-💞️ I’m looking to collaborate on Lern IT <br />
-📫 How to reach me :) <br />
+👋 เคยศึกษา Computer science ที่ Huachiew Chalermprakiet University of Thailand(泰國華僑崇聖大學) Bachelor of Science และ B.Sc. จบการศึกษาเมื่อปี 2006 <br />
+👀 เคยศึกษา Information Technology Agricultural and Rural Development ที่ มหาวิทยาลัยอุบลราชธานี  Ubon Ratchathani University  จบการศึกษาเมื่อปี 2015 <br />
+🌱 เคยศึกษา Ph.D.Science Education Major in Computer ที่ มหาวิทยาลัยอุบลราชธานี  Ubon Ratchathani University จบการศึกษาเมื่อปี 2021 <br />
+💞️ Cert. in Data Science and Internet of Things for Digital Economy ที่ คณะวิทยาศาสตร์ มหาวิทยาลัยอุบลราชธานี จบการศึกษาเมื่อปี 2023 <br />
+📫 เรียน certificate course in cyber security basics ที่ มหาวิทยาลัยสุโขทัยธรรมาธิราช เริ่มตั้งแต่ 16 มิถุนายน 2023 <br />
 🌍  I'm based in SSJ MUKDAHAN => http://mdo.moph.go.th/ <br />
 
 <a href="https://www.github.com/thering999" target="_blank" rel="noreferrer"><img
