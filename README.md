@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 👋 Hi, I’m @thering999 <br />
-👀 I’m interested in PHP
-🌱 I’m currently learning Forever
-💞️ I’m looking to collaborate on Lern IT
-📫 How to reach me :)
-🌍  I'm based in SSJ MUKDAHAN => http://mdo.moph.go.th/
+👀 I’m interested in PHP <br />
+🌱 I’m currently learning Forever <br />
+💞️ I’m looking to collaborate on Lern IT <br />
+📫 How to reach me :) <br />
+🌍  I'm based in SSJ MUKDAHAN => http://mdo.moph.go.th/ <br />
 
 <a href="https://www.github.com/thering999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thering999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SHabusaya" target="_blank" rel="noreferrer"><img
