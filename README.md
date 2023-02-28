@@ -8,7 +8,7 @@ Software Developer
 🌱 I’m currently learning Forever
 💞️ I’m looking to collaborate on Lern IT
 📫 How to reach me :)
-🌍  I'm based in SSJ MUKDAHAN => http://203.157.172.1/
+🌍  I'm based in SSJ MUKDAHAN => http://mdo.moph.go.th/
 
 <a href="https://www.github.com/thering999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thering999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SHabusaya" target="_blank" rel="noreferrer"><img
