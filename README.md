@@ -9,6 +9,15 @@ Software Developer
 💞️ I’m looking to collaborate on Lern IT
 📫 How to reach me :)
 🌍  I'm based in SSJ MUKDAHAN => http://mdo.moph.go.th/
+------------------
+
+Education
+------------------
+B.Sc.Computer science @ Huachiew Chalermprakiet University of Thailand(泰國華僑崇聖大學)
+M.Sc.Information Technology Agricultural and Rural Development @ Ubon Ratchathani University
+Ph.D.Science Education Major in Computer @ Ubon Ratchathani University
+Certificate in Data Science and Internet of Things for Digital Economy @ Ubon Ratchathani University
+------------------
 
 <a href="https://www.github.com/thering999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thering999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/SHabusaya" target="_blank" rel="noreferrer"><img
